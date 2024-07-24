@@ -10,6 +10,9 @@
 # build/ 디렉터리에 있는 모든 파일 무시
 # build/
 
+biospecimen.project-tcga-luad/
+clinical.project-tcga-luad/
+tcga/
 
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
