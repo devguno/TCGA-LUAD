@@ -6,7 +6,7 @@
 # website: http://jupyter.org/
 
 # 확장자가 .a인 파일 무시
-# *.a
+*.csv
 # build/ 디렉터리에 있는 모든 파일 무시
 # build/
 
